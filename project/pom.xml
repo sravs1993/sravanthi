@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>sravs</groupId>
-  <artifactId>maven project</artifactId>
+  <artifactId>project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>maven project</name>
+  <name>project</name>
   <url>http://maven.apache.org</url>
 
   <properties>
