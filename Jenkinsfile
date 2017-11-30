@@ -4,8 +4,9 @@ pipeline {
     stages {
         stage('Build') { 
             steps { 
-                echo "This is a sample project" 
-            }
+                echo "This is a sample project"
+           }
         }
+        Stage('Deploy')
       }
 }
