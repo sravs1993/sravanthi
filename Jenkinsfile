@@ -7,6 +7,6 @@ pipeline {
                 echo "This is a sample project"
            }
         }
-        Stage('Deploy')
+        stage('Deploy')
       }
 }
